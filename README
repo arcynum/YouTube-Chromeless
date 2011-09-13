@@ -1,3 +1,14 @@
+This is a forked version of davist11 (Trevor Davis)'s Youtube Embedding.
+This version is essentially the same, except its has removed some of the features.
+
+This will essentially display only the Chromeless Youtube Video.
+You click the video to start, and click it again to pause/resume the video.
+The volume is set to max(100).
+
+This was used for a simple promotional video embed, but some other people may want a "Just Video" version.
+
+The majority of the code here is still Copyright to Trevor Davis, however there are some changes/small additions which are my own.
+
 A jQuery plugin to hook into the YouTube Chromeless Video API.
 
 Sample Usage:
@@ -11,7 +22,6 @@ $(document).ready(function() {
 Requirements:
 - jQuery: http://jquery.com/
 - SWFObject: http://code.google.com/p/swfobject/
-- YouTube Chromeless Video Plugin: http://github.com/davist11/YouTube-Chromeless
 
 
 Options:
